@@ -196,7 +196,6 @@ dependencies:
     - scikit-image==0.19.3
     - scipy==1.9.3
     - scooby==0.7.0
-    - soft-renderer==1.0.0
     - soupsieve==2.3.2.post1
     - tifffile==2022.10.10
     - tqdm==4.64.1
